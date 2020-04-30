@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "4Q7G53838C.io.yojji.leadr.develop",
+        "paths": [
+          "/oauth/*"
+        ]
+      }
+    ]
+  }
+}
